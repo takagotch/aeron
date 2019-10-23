@@ -107,10 +107,6 @@ contract Aeron is ERC20 {
   function burn() returns () {}
   
   
-  
-  
-  
-  
 }
 
 
